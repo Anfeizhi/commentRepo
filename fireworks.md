@@ -11,7 +11,7 @@ comment: true
 
 # 程序碼部分
 
----
+```javaseript
 (() => {
   if (window.fireworksInitialized) {
 			// 检查是否已经初始化过
@@ -171,7 +171,7 @@ comment: true
   r(),
   window.addEventListener("resize", r, !1);
 })();
----
+```
 
 # 小特性
 
