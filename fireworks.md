@@ -1,6 +1,6 @@
 ---
 title: 點擊煙花特效
-published: 2023-09-09
+published: 2026-10-02
 description: 搬運自Night1918「原文章blog無法訪問，該程序碼是在個人整理收藏時發現」
 tags: [Fireworks, ClickMotion]
 category: JavaScript
