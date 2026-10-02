@@ -9,9 +9,9 @@ pinned: false
 comment: true  
 ---
 
-# 程序碼部分
+# 程式碼部分
 
-```javaseript
+```javascript
 (() => {
   if (window.fireworksInitialized) {
 			// 检查是否已经初始化过
