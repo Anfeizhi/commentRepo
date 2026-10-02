@@ -1,7 +1,7 @@
 ---
-title:點擊煙花特效
+title: 點擊煙花特效
 published: 2023-09-09
-description:搬運自Night1918「原文章blog無法訪問，該程序碼是在個人整理收藏時發現」
+description: 搬運自Night1918「原文章blog無法訪問，該程序碼是在個人整理收藏時發現」
 tags: [Fireworks, ClickMotion]
 category: JavaScript
 draft: false
@@ -11,7 +11,7 @@ comment: true
 
 # 程序碼部分
 
-``js
+---
 (() => {
   if (window.fireworksInitialized) {
 			// 检查是否已经初始化过
@@ -171,7 +171,7 @@ comment: true
   r(),
   window.addEventListener("resize", r, !1);
 })();
-``
+---
 
 # 小特性
 
