@@ -11,7 +11,7 @@ comment: true
 
 # 效果演示
 
-![影片](ScreenRecording_10-10-2026 下午11-32-12_1.mp4)
+![影片](/ScreenRecording_10-10-2026 下午11-32-12_1.mp4)
 
 此处使用了动作按钮执行快捷指令，你还可以将其添加到控制中心或者使用Siri执行。
 
@@ -27,7 +27,7 @@ https://apps.apple.com/app/id1405459188
 
 点开之后按照视频添加
 
-![影片](ScreenRecording_10-10-2026 下午9-59-24_1.mp4)
+![影片1](/ScreenRecording_10-10-2026 下午9-59-24_1.mp4)
 
 ## 3.添加快捷指令
 
