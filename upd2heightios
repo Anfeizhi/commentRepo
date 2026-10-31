@@ -1,0 +1,35 @@
+---
+title: Update2-iOS测身高快捷指令
+published: 2026-10-31
+description: 添加历史记录查询页面，以及账号数据分离
+tags: [Update, SkyHeight, iOS-Shortcuts]
+category: Sky光遇
+draft: false
+pinned: false
+comment: true  
+---
+
+# 效果演示
+
+https://afz.sky-i.cn/u2p.mp4
+
+# 新增功能
+
+## 1.历史记录可查询
+
+在没有造型二维码的界面下执行快捷指令，会弹出一个JavaScript授权
+
+点“总是允许”即可查看历史身高，此后不会重复授权JavaScript
+
+## 2.账号分离存储历史
+
+历史数据仍然会存储到Scriptable的沙盒文件夹，但是脚本通过区分seed值来分离账号数据
+
+扫描到新账号装扮二维码回弹出备注账号名称，以便在查询历史时账号选择更加方便
+
+# 更新资源
+
+https://afz.sky-i.cn/LZ4-2.scriptable
+
+https://www.icloud.com/shortcuts/1c6ed9fa12804c74ad19e1225463b462
+
